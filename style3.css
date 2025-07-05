@@ -1,4 +1,4 @@
-p{
+/* p{
     color: rgb(109, 67, 67);
     background-color: aquamarine;
     font-size: 40px;
@@ -7,7 +7,27 @@ p{
     font-style: italic;
     letter-spacing: 15px;
     line-height: 50px;
-    
+
+
+
+} */
+
+
+#para1{
+
+    color: blue;
+    font-weight: bolder;
+}
+.para2{
+
+    color: green;
+    font-size: 40px;
+}
+#para3{
+    color: chartreuse;
+    font-size: xx-large;
+    font-style: italic;
+    background-color: chocolate;
 
 
 }
