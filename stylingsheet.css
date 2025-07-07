@@ -36,3 +36,29 @@ table{
     
 
 }
+
+.q1{
+
+    font-size: 50px;
+    
+    border: 20px double crimson;
+    margin: 50px;
+    padding-left: 10px;
+
+}
+.a1{
+    color: aqua;
+}
+.a2{
+
+    color: blue;
+}
+.a3{
+    color: brown;
+}
+.z1{
+    font-size: 50px;
+    border: 14px dotted rgb(81, 105, 105);
+    padding: 30px;
+    margin: 15px;
+}
