@@ -1,0 +1,26 @@
+
+#para1{
+color: darkgrey;
+font-size: large;
+font-weight: 500;
+text-decoration: line-through;
+
+}
+.para2{
+
+    color: brown;
+    font-size: 40px;
+    text-decoration: dotted;
+}
+b{
+    color: black;
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 3000;
+    font-size: 50px; 
+
+
+
+}
+
