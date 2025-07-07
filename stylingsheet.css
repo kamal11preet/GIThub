@@ -1,7 +1,7 @@
 
 #para1{
 color: darkgrey;
-font-size: large;
+font-size: 30px;
 font-weight: 500;
 text-decoration: line-through;
 
@@ -9,8 +9,9 @@ text-decoration: line-through;
 .para2{
 
     color: brown;
-    font-size: 40px;
-    text-decoration: dotted;
+    font-size: 40px;    
+    text-decoration: overline;
+    background-color: rgb(207, 207, 87);
 }
 b{
     color: black;
@@ -19,8 +20,19 @@ b{
     text-decoration: underline;
     font-weight: 3000;
     font-size: 50px; 
-
+    align-items: center;
+    align-self: center;
 
 
 }
 
+table{
+    font-size: 20px;
+    color: chartreuse;
+    background-color: cornflowerblue;
+    word-spacing: 30px;
+    
+
+    
+
+}
