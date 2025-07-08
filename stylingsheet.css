@@ -59,6 +59,24 @@ table{
 .z1{
     font-size: 50px;
     border: 14px dotted rgb(81, 105, 105);
-    padding: 30px;
+    /* padding: 30px; */
     margin: 15px;
+    padding: 10px 20px;
+
+
+
+}
+.x2{
+font-size: 30px;
+display: flex;
+justify-content: center;
+
+}
+.c2{
+    border: 5px double black;
+    display: flex;
+    flex: content;
+    gap: 10px
+    ;
+
 }
