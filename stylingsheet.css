@@ -67,8 +67,13 @@ table{
 
 }
 .x2{
-font-size: 30px;
+font-size: 12px;
 display: flex;
+justify-content: right;
+
+width: 50px;
+height:50px;
+border: 5px solid chocolate;
 justify-content: center;
 
 }
@@ -87,6 +92,7 @@ justify-content: center;
     margin: 100px;
     padding: 50px;
     gap: 10px;
+    
 }
 .m2{
      display: inline;
@@ -107,5 +113,12 @@ justify-content: center;
     padding: 50px;
     gap: 10px;
 }   
-    
+.aa{
+    border: 5px solid cornflowerblue;
+    display: flex;
+    display: inline-flexbox;
+    gap: 50px;
+    margin: 30px;
+    justify-content: space-evenly;
+}    
 
